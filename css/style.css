@@ -1,12 +1,6 @@
-:root{
-    --primary-color:#444;
-    --primary-color-codeR:68;
-    --primary-color-codeB:68;
-    --primary-color-codeA:68;
-    --secondary-color:#eece1a;
-    --home-image: url(../img/hero-image.jpg);
-    --background-opacity:0.9;
-}
+
+@import '_config.css';
+@import '_menu.css';
 
 html{
     font-size:10px;
