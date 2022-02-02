@@ -58,6 +58,7 @@
     float:left;
     width:50%;
     height:100vh;
+    overflow:hidden;
 }
 
 .menu .menu-nav{
